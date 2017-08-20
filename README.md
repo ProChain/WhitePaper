@@ -54,8 +54,8 @@ ICO结束后，在任意一个具有以太币交易功能的钱包中，在“�
 
 
 #### 10.我在哪里可以看到推广链项目白皮书？
-中文地址：
-英文地址：
+中文地址：[白皮书](https://github.com/ProChain/WhitePaper/blob/master/推广链白皮书20170811.pdf)
+英文地址：[Whitepaper](https://github.com/ProChain/WhitePaper/blob/master/ProChain%20WhtePaper0811.pdf)
 
 
 #### 11.推广链如何对应广告欺诈？

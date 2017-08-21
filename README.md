@@ -47,9 +47,9 @@ ICO结束后，在任意一个具有以太币交易功能的钱包中，在“�
 
 #### 8.般若币的众筹计划是怎样的？
 
-般若币总计发行100亿个，ICO众筹时间为期30天，预计发放代币数量60亿个。众筹目标金额为40000ETH，最低筹款额20000ETH，在ICO期间一旦筹满40000ETH则众筹环节直接结束。未达到40000但超过20000，则按照注入ETH总数来计算对应投资者份额，根据份额来分配全部60亿般若币。
+般若币总计发行100亿个，ICO众筹时间为期30天，预计发放代币数量50亿个。众筹目标金额为40000ETH，最低筹款额20000ETH，在ICO期间一旦筹满40000ETH则众筹环节直接结束。未达到40000但超过20000，则按照注入ETH总数来计算对应投资者份额，根据份额来分配全部50亿般若币。
 
-在筹满4万ETH的前提下，每1个ETH可兑换150000个PRO；而如果筹到3万ETH，则每个ETH可兑换200000个PRO；如果众筹结束时刚好达到2万ETH最低筹款额，则每个ETH可兑换300000个PRO
+在筹满4万ETH的前提下，每1个ETH可兑换12.5w个PRO；而如果筹到3万ETH，则每个ETH可兑换16.7w个PRO；如果众筹结束时刚好达到2万ETH最低筹款额，则每个ETH可兑换25w个PRO
 
 
 #### 9.般若币的合约地址是？
@@ -57,8 +57,8 @@ ICO结束后，在任意一个具有以太币交易功能的钱包中，在“�
 
 
 #### 10.我在哪里可以看到般若链项目白皮书？
-中文地址：[白皮书](https://github.com/ProChain/WhitePaper/blob/master/般若白皮书20170821.pdf)
-英文地址：[Whitepaper](https://github.com/ProChain/WhitePaper/blob/master/ProChain%20WhtePaper0821.pdf)
+中文地址：[白皮书](https://github.com/ProChain/WhitePaper/blob/master/般若白皮书20170822.pdf)
+英文地址：[Whitepaper](https://github.com/ProChain/WhitePaper/blob/master/ProChain%20WhtePaper0822.pdf)
 
 
 #### 11.般若链如何对应广告欺诈？
@@ -127,9 +127,9 @@ No, ProChain and MLM mechanisms vary widely. MLM organizations have significant 
 
 #### 8. What is the crowdfunding plan of PRO coins?
 
-The total amount of PRO is 10 billion. The duration of ICO is 30 days with 6 billion tokens. Our goal is to raise a maximum of 40000ETH and a minimum of 20000ETH. The ICO will end once when we raise 40000ETH. If fund-raising amount is between 20000 and 40000, the total 6 billion PRO will be distributed according to the total number of injected ETH to calculate the corresponding share of investors.
+The total amount of PRO is 10 billion. The duration of ICO is 30 days with 5 billion tokens. Our goal is to raise a maximum of 40000ETH and a minimum of 20000ETH. The ICO will end once when we raise 40000ETH. If fund-raising amount is between 20000 and 40000, the total 5 billion PRO will be distributed according to the total number of injected ETH to calculate the corresponding share of investors.
 
-In the premise of raising 40000ETH, each ETH can exchange for 150000 PRO; and if we raise 30000ETH, each ETH can exchange for 200000 PRO; if we just reach 20000ETH minimum fundraising, each ETH can exchange for 300000 PRO.
+In the premise of raising 40000ETH, each ETH can exchange for 125K PRO; and if we raise 30000ETH, each ETH can exchange for 166.7K PRO; if we just reach 20000ETH minimum fundraising, each ETH can exchange for 250K PRO.
 
 
 #### 9. What is the contract address of PRO?
@@ -144,9 +144,9 @@ Ethereum crowdfunding was attacked by hackers many times recently, such as tampe
 
 #### 11. Where can I get the white paper of PRO
 
-Chinese Address: [白皮书](https://github.com/ProChain/WhitePaper/blob/master/般若白皮书20170821.pdf)
+Chinese Address: [白皮书](https://github.com/ProChain/WhitePaper/blob/master/般若白皮书20170822.pdf)
 
-English Address: [Whitepaper](https://github.com/ProChain/WhitePaper/blob/master/ProChain%20WhtePaper0821.pdf)
+English Address: [Whitepaper](https://github.com/ProChain/WhitePaper/blob/master/ProChain%20WhtePaper0822.pdf)
 
 
 #### 12.How does the prochain correspond to advertising fraud?

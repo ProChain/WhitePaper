@@ -69,8 +69,8 @@ ICO结束后，在任意一个具有以太币交易功能的钱包中，在“�
 当ICO众筹结束后，我们将通过ICO平台为大家发放般若币
 
 
-#### 13.锁定的40亿般若币具体分配情况？
-核心开发团队 10%，早期投资者与顾问 10%，社区运营 20%（其中包括ICO潜在奖励6%，企业试用代币补贴2%，新用户代币补贴2%）主要资金将用于招募和激励更多的优秀工程师加入社区，推进项目早日上线
+#### 13.锁定的50亿般若币具体分配情况？
+核心创始开发团队 15%，早期投资者与顾问 15%，社区运营 20%（其中包括企业试用代币补贴2%，合作方代币补贴2%）主要资金将用于招募和激励更多的优秀工程师加入社区，推进项目早日上线
 
   
     
@@ -159,6 +159,6 @@ The prochain has a unique POSt mechanism, which is able to eliminated the advert
 We will send PRO throught ICO platform as soon as the ICO ends.
 
 
-#### 14.What is the distribution of the locked 4 billion PRO?
+#### 14.What is the distribution of the locked 5 billion PRO?
 
-Core devlopement team 10%, early investors and consultants 10%, business and community operation 20%(including the ICO bonus 6%, Enterprise trial tokens subsidy 2%, which will be used to hire more talent engineers to join community).
+Core devlopement team 15%, early investors and consultants 15%, business and community operation 20%(including Enterprise trial tokens subsidy 2%) which will be used to hire more talent engineers to join community.

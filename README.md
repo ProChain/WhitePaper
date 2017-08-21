@@ -58,7 +58,7 @@ ICO结束后，在任意一个具有以太币交易功能的钱包中，在“�
 
 #### 10.我在哪里可以看到般若链项目白皮书？
 中文地址：[白皮书](https://github.com/ProChain/WhitePaper/blob/master/般若白皮书20170822.pdf)
-英文地址：[Whitepaper](https://github.com/ProChain/WhitePaper/blob/master/ProChain%20WhtePaper0822.pdf)
+英文地址：[Whitepaper](https://github.com/ProChain/WhitePaper/blob/master/ProChain%20WhitePaper0822.pdf)
 
 
 #### 11.般若链如何对应广告欺诈？
@@ -146,7 +146,7 @@ Ethereum crowdfunding was attacked by hackers many times recently, such as tampe
 
 Chinese Address: [白皮书](https://github.com/ProChain/WhitePaper/blob/master/般若白皮书20170822.pdf)
 
-English Address: [Whitepaper](https://github.com/ProChain/WhitePaper/blob/master/ProChain%20WhtePaper0822.pdf)
+English Address: [Whitepaper](https://github.com/ProChain/WhitePaper/blob/master/ProChain%20WhitePaper0822.pdf)
 
 
 #### 12.How does the prochain correspond to advertising fraud?
